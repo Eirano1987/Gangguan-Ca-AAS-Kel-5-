@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Hasil keluaran
+deret_ca.csv
+
+# Editor dan sistem
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
